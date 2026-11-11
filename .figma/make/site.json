@@ -1,1 +1,10 @@
-
+{
+  "description": "Delivers an intuitive, user-friendly interface that presents clear, valid data with seamless navigation and an aesthetically pleasing design for optimal user experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
